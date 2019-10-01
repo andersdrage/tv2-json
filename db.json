@@ -1,0 +1,142 @@
+{
+  "articles": [
+    {
+      "title": "– Han hadde på seg svart silkepyjamas",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10876665&panox=12.928921568627&panow=87.071078431373&panoh=44.136029411765&panoy=14.117647058824&heighth=97.439516129032&heighty=1.9354838709677&heightx=31.759656652361&heightw=39.927575107296&width=480",
+      "published": "2019-09-28T16:14:29+02:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "– Jeg har feilet",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10875751&panow=81.629136029412&panoh=41.684027777778&panox=5.8823529411765&panoy=21.111111111111&heightx=40.860215053763&heightw=33.344534050179&heighth=82.530737704918&heighty=17.469262295082&width=480",
+      "published": "2019-09-28T15:58:05+02:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Greta: – Det er jeg som bestemmer",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10874676&panow=91.748450413223&panoh=46.315586419753&panoy=18.518518518519&panox=4.1322314049587&heighty=17.674418604651&heightx=42.546583850932&heightw=28.891692546584&heighth=70.247093023256&width=480",
+      "published": "2019-09-27T11:00:49+02:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Han er mannen som skal spille Thomas Quick",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10860182&panox=0&panow=100&panoh=90.47619047619&panoy=0&heightx=31.234866828087&heighty=0&heightw=23.002421307506&heighth=100&width=480",
+      "published": "2019-09-21T16:44:49+02:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Nå drømmer Northug (33) om kjæreste",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10859120&panoy=35.714285714286&panox=0&panow=100&panoh=60.31746031746&heightw=34.420289855072&heighth=100&heighty=0&heightx=6.1594202898551&width=480",
+      "published": "2019-09-20T12:11:59+02:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Minneord om Kjell Arne Totland",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10764266&width=480",
+      "published": "2019-08-22T10:51:38+02:00",
+      "category": "nyheter"
+    },
+    {
+      "title": "Her går det galt",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10768896&panox=1.2738853503185&panow=47.55838641189&panoh=16.135881104034&panoy=49.469214437367&heighty=3.8888888888889&heightx=0.55555555555556&heightw=52.777777777778&heighth=86.111111111111&width=480",
+      "published": "2019-08-13T08:32:21+02:00",
+      "category": "nyheter"
+    },
+    {
+      "title": "Slik blir fotball-VM på TV 2 og NRK",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10635837&panox=0&panow=100&panoh=51.006711409396&panoy=0&heightx=27.896995708155&heighty=0&heightw=40.772532188841&heighth=100&width=480",
+      "published": "2019-05-29T10:06:49+02:00",
+      "category": "sport"
+    },
+    {
+      "title": "Skjeggkre-frykt på norske arbeidsplasser",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10514081&panow=0&panoy=0&panox=0&panoh=0&heightw=0&heighth=0&heighty=0&heightx=0&width=480",
+      "published": "2019-04-01T21:17:01+02:00",
+      "category": "nyheter"
+    },
+    {
+      "title": "Verdens beste fiskesuppe",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10337458&panoh=0&panoy=0&panox=0&panow=0&heightw=0&heighth=0&heighty=0&heightx=0&width=480",
+      "published": "2019-01-11T12:18:23+01:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Solskjærs hjemmedebut sendes gratis på TV 2",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10295931&panox=0&panoy=0&panow=0&panoh=0&heightw=0&heighth=0&heightx=0&heighty=0&width=480",
+      "published": "2018-12-20T09:00:07+01:00",
+      "category": "sport"
+    },
+    {
+      "title": "Riksrevisjonen kritiserer NIFs bruk av spillemidler",
+      "image": "https://www.cdn.tv2.no/images/?imageId=10152568&panoy=0&panox=0&panow=0&panoh=0&heightw=0&heighth=0&heighty=0&heightx=0&width=480",
+      "published": "2018-10-18T15:01:15+02:00",
+      "category": "sport"
+    },
+    {
+      "title": "– Helt ærlig, samtalen som handlet om penger var over på ett minutt",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9898511&panow=0&panoy=0&panox=0&panoh=0&heightw=40.666666666667&heighth=100&heighty=0&heightx=52.333333333333&width=480",
+      "published": "2018-06-06T19:02:16+02:00",
+      "category": "nyheter"
+    },
+    {
+      "title": "Petter Nyquist røper nytt TV-prosjekt",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9840144&panoy=10.695187165775&panox=0&panow=100&panoh=52.406417112299&heightw=0&heighth=0&heightx=0&heighty=0&width=480",
+      "published": "2018-05-05T19:10:00+02:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Line (43) er Norges mest tatoverte kvinne",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9795260&panox=0&panow=100&panoh=51.851851851852&panoy=0&heightx=0&heighty=0&heightw=0&heighth=0&width=480",
+      "published": "2018-04-12T10:46:00+02:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Derfor bør du snakke om seksualitet med barnehagebarn",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9779814&panoy=1.2738853503185&panox=0&panow=100&panoh=62.420382165605&heightw=0&heighth=0&heighty=0&heightx=0&width=480",
+      "published": "2018-04-05T10:10:44+02:00",
+      "category": "aktualitet"
+    },
+    {
+      "title": "– Skulle ønske folk kunne slutte å glo",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9721154&panox=0&panow=100&panoh=35&panoy=30.714285714286&heighth=0&heighty=0&heightx=0&heightw=0&width=480",
+      "published": "2018-03-05T17:33:51+01:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Bergensk fiskesuppe",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9710380&panoy=0&panox=0&panow=0&panoh=0&heighty=0&heightw=0&heighth=0&heightx=0&width=480",
+      "published": "2018-02-28T10:53:58+01:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "– Derfor føler du at du er omgitt av idioter",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9699027&panow=0&panoh=0&panoy=0&panox=0&heighty=0&heightx=0&heightw=0&heighth=0&width=480",
+      "published": "2018-02-22T07:16:00+01:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Glutenfri og kjøttfri suppe",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9683357&panow=0&panoh=0&panoy=0&panox=0&heighth=0&heighty=0&heightx=0&heightw=0&width=480",
+      "published": "2018-02-15T13:31:23+01:00",
+      "category": "underholdning"
+    },
+    {
+      "title": "Dette er TV 2s nye «klokke»",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9603215&panoh=62.025316455696&panoy=2.5316455696203&panox=0&panow=100&heighty=0&heightw=34.659090909091&heighth=100&heightx=44.886363636364&width=480",
+      "published": "2018-01-20T07:58:25+01:00",
+      "category": "storm"
+    },
+    {
+      "title": "NRK-direktør: – Bransjekollega stakk neven opp under skjørtet",
+      "image": "https://www.cdn.tv2.no/images/?imageId=9494863&panoy=14.556962025316&panox=0&panow=100&panoh=62.025316455696&heightw=28.504672897196&heighty=7.0833333333333&heightx=38.785046728972&heighth=82.5&width=480",
+      "published": "2017-11-16T10:37:00+01:00",
+      "category": "nyheter"
+    },
+    {
+      "title": "TV 2 søker om å få være kommersiell allmennkringkaster",
+      "image": "https://www.cdn.tv2.no/images/?imageId=8821380&panox=0&panow=100&panoh=52.127659574468&panoy=14.36170212766&heightx=0&heightw=0&heighth=0&heighty=0&width=480",
+      "published": "2017-09-23T16:02:08+02:00",
+      "category": "nyheter"
+    }
+  ]
+}
